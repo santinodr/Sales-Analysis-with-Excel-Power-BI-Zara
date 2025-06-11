@@ -22,7 +22,7 @@ This project focuses on identifying trends, analyzing pricing, and understanding
 ## **Dashboard & Visualizations**  
 Here is a preview of the **Power BI dashboard**, showcasing key sales trends for Zara:  
 
-![Image](https://github.com/user-attachments/assets/909dd38f-c031-4739-ba58-a143d6cf84d0)
+![DASHBOARD_SALES](https://github.com/user-attachments/assets/56d805a7-f33d-4b1e-a846-8fc846415e5d)
 
 This dashboard presents **total sales, seasonal performance, product trends, and pricing insights**.  
 
